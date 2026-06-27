@@ -17,7 +17,3 @@ sudo git clone https://github.com/digininja/DVWA.git
 WAF VM (NGINX + ModSecurity)
 bash
 sudo apt install nginx libmodsecurity3
-👨‍💻 Müəllif
-Allahverən Sadıqov - SOC Analyst | Blue Team Specialist
-
-GitHub | LinkedIn
